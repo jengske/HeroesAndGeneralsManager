@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: dd0e41dc1b76f0246b9fda1ff974ddad
+timeCreated: 1493725693
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - atPrefab: {fileID: 114915601147428764, guid: ee63e590f304f6d458980319132bcaa9,
+      type: 2}
+  - charPrefab: {fileID: 114751359780879340, guid: 4c951102bbed92f448a0286a3dd5c096,
+      type: 2}
+  - IMGHolder: {fileID: 114916846121121444, guid: 6a3af15979ad1de43a201a8bc7aa83d1,
+      type: 2}
+  - BuyATs: {fileID: 114930178759582792, guid: 4e5aeefc37452f14ca465214f7b8156e, type: 2}
+  - UpgrATs: {fileID: 114339771845627626, guid: 0779d20f1de2e534b90703a2fb600fc5,
+      type: 2}
+  - soldiers: {instanceID: 0}
+  - info: {instanceID: 0}
+  - AT: {instanceID: 0}
+  - buypanel: {instanceID: 0}
+  - modifypanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
