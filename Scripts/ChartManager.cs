@@ -7,6 +7,8 @@ using System.IO;
 using System;
 // thes need to be added for working with gui elements
 using UnityEngine.UI;
+// todo: need to create 2 new scripts to put on the selection and load prefab
+// Copy out all elements and functions to new scripts
 
 public class ChartManager : MonoBehaviour {
 	public static ChartManager Chart;
